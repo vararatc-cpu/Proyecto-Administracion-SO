@@ -1,3 +1,15 @@
+#<<<<<<< rama_Danny_Cortez
+
+#Victor Samuel Ararat Castro
+#Mark Anthony Sánchez Gómez 
+#Edder Nain Chalèn Silva
+# Raul Fernando Trujillo Vera
+#Jonathan Magallanes Pincay
+#Melania Alina Burgos Flores 
+#Danny Alexander Cortez Villa
+#Fabaian Fabricio Dominguez Dominguez
+#!/usr/bin/env python3
+#>>>>>>> main
 """
 GESTION.PY - PROGRAMA DE GESTION BASICO (CLI) CON SQLITE3
 FUNCIONALIDADES:
