@@ -2,6 +2,7 @@
 #Mark Anthony Sánchez Gómez 
 #Edder Nain Chalèn Silva
 # Raul Fernando Trujillo Vera
+#Jonathan Magallanes Pincay
 
 #!/usr/bin/env python3
 """
