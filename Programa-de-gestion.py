@@ -5,6 +5,7 @@
 #Jonathan Magallanes Pincay
 #Melania Alina Burgos Flores 
 #Danny Alexander Cortez Villa
+#Fabaian Fabricio Dominguez Dominguez
 #!/usr/bin/env python3
 """
 GESTION.PY - PROGRAMA DE GESTION BASICO (CLI) CON SQLITE3
