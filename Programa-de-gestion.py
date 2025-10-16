@@ -4,6 +4,7 @@
 # Raul Fernando Trujillo Vera
 #Jonathan Magallanes Pincay
 #Melania Alina Burgos Flores 
+#Danny Alexander Cortez Villa
 #!/usr/bin/env python3
 """
 GESTION.PY - PROGRAMA DE GESTION BASICO (CLI) CON SQLITE3
