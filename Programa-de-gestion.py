@@ -1,3 +1,5 @@
+#<<<<<<< rama_Danny_Cortez
+
 #Victor Samuel Ararat Castro
 #Mark Anthony Sánchez Gómez 
 #Edder Nain Chalèn Silva
@@ -7,6 +9,7 @@
 #Danny Alexander Cortez Villa
 #Fabaian Fabricio Dominguez Dominguez
 #!/usr/bin/env python3
+#>>>>>>> main
 """
 GESTION.PY - PROGRAMA DE GESTION BASICO (CLI) CON SQLITE3
 FUNCIONALIDADES:
@@ -100,6 +103,6 @@ def add_cliente():
 
 def list_clientes():
     conn = get_conn()
-    cur = conn.execute("SELECT * FROM clientes*
+    cur = conn.execute("SELECT * FROM clientes*")
 
 
