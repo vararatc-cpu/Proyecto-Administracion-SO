@@ -1,7 +1,7 @@
 #Victor Samuel Ararat Castro
 #Mark Anthony Sánchez Gómez 
 #Edder Nain Chalèn Silva
-
+# Raul Fernando Trujillo Vera
 
 #!/usr/bin/env python3
 """
